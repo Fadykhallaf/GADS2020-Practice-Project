@@ -23,3 +23,6 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 
 ---
 
+### Lab4: Implementing Google Private Access and Cloud NAT
+
+![Implementing google private access and cloud NAT](screenshots/private-google-access-and-cloud-nat.jpeg)
