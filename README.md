@@ -29,6 +29,14 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 
 ---
 
-### Lab5: Creating Virtuals
+### Lab5: Creating Virtual Machines
 
 ![Creating virtuals machines](screenshots/creating-virtual-machines.jpeg)
+
+---
+
+### Lab6: Working with Virtual Machines
+
+![working with virtual machines](screenshots/working-with-virtual-machines.jpeg)
+
+---
