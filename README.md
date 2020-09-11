@@ -56,3 +56,9 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 ### Lab9: Examining Billing data with BigQuery
 
 ![Examining Billing data with BigQuery](screenshots/Examining-Billing-data-with-BigQuery.jpeg)
+
+---
+
+### Lab10: Resource Monitoring
+
+![Resource Monitoring](screenshots/Resource-Monitoring.jpeg)
