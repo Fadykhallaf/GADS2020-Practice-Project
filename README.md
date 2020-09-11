@@ -62,3 +62,9 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 ### Lab10: Resource Monitoring
 
 ![Resource Monitoring](screenshots/Resource-Monitoring.jpeg)
+
+---
+
+### Lab11: Error Reporting and Debugging
+
+![Error Reporting and Debugging](screenshots/Error-Reporting-and-Debugging.jpeg)
