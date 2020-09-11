@@ -40,3 +40,13 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 ![working with virtual machines](screenshots/working-with-virtual-machines.jpeg)
 
 ---
+
+### Lab7: Cloud IAM
+
+![Cloud IAM](screenshots/cloud-IAM.jpeg)
+
+---
+
+### Lab8: Implementing Cloud SQL
+
+![Implementing Cloud SQL](screenshots/implementing-cloud-SQL.jpeg)
