@@ -50,3 +50,9 @@ here is a bunch of the screenshots for the labs which I have done on qwiklabs.
 ### Lab8: Implementing Cloud SQL
 
 ![Implementing Cloud SQL](screenshots/implementing-cloud-SQL.jpeg)
+
+---
+
+### Lab9: Examining Billing data with BigQuery
+
+![Examining Billing data with BigQuery](screenshots/Examining-Billing-data-with-BigQuery.jpeg)
